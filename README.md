@@ -10,15 +10,11 @@ The best-performing Inception-V3-based UNet mode from our previous study https:/
 
 The model performance is analyzed under the following settings:
 
-    Direct resizing with original data (at resolutions 32×32, 64×64, 128×128, 256×256, 512×512, 768×768, and 1024×1024)
-
-    Direct resizing with lung-cropped ROI at aforementioned resolutions.
-
-    Aspect-ratio adjusted original data at aforementioned resolutions.
-
-    Aspect-ratio adjusted lung-cropped ROI at aforementioned resolutions.
-
-Improve segmentation performance at the optimal resolution/ratio through a combinatorial approach of storing model snapshots, optimal test time augmentation, and segmentation threshold optimization.
+    1. Direct resizing with original data (at resolutions 32×32, 64×64, 128×128, 256×256, 512×512, 768×768, and 1024×1024)
+    2. Direct resizing with lung-cropped ROI at aforementioned resolutions.
+    3. Aspect-ratio adjusted original data at aforementioned resolutions.
+    4. Aspect-ratio adjusted lung-cropped ROI at aforementioned resolutions.
+    5. Improve segmentation performance at the optimal resolution/ratio through a combinatorial approach of storing model snapshots, optimal test time augmentation, and segmentation threshold optimization.
 
 ## Requirements:
 
