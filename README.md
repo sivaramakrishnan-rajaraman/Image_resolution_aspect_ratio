@@ -19,3 +19,10 @@ Improve segmentation performance at the optimal resolution/ratio through a combi
 ![image](https://user-images.githubusercontent.com/45852019/210234673-2c7f0c9a-9746-4b19-bc69-d54eaaadf233.png)
 
 ![image](https://user-images.githubusercontent.com/45852019/210234712-24cae50f-9205-47e8-993e-b499e1543289.png)
+
+
+## Test-time augmentation combination
+![image](https://user-images.githubusercontent.com/45852019/210234837-b6297c06-24a6-4071-be09-c6c13a882ca6.png)
+
+## Compring the results of baseline and snapshot averaging
+![image](https://user-images.githubusercontent.com/45852019/210234859-2f8dc744-2e4d-43fb-b00b-27b23b0ae0b2.png)
