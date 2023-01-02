@@ -17,3 +17,5 @@ Improve segmentation performance at the optimal resolution/ratio through a combi
 
 
 ![image](https://user-images.githubusercontent.com/45852019/210234673-2c7f0c9a-9746-4b19-bc69-d54eaaadf233.png)
+
+![image](https://user-images.githubusercontent.com/45852019/210234712-24cae50f-9205-47e8-993e-b499e1543289.png)
