@@ -12,3 +12,5 @@ Direct resizing with lung-cropping at afore-mentioned resolutions.
 Aspect-ratio adjusted original data at afore-mentioned resolutions.
 Aspect-ratio adjusted lung-cropped data at afore-mentioned resolutions.
 Improve segmentation performance at the optimal resolution/ratio through a combinatorial approach of ensemble learning, optimal test time augmentation, and segmentation threshold optimization.
+
+![image](https://user-images.githubusercontent.com/45852019/210234614-ba1aee0b-a679-46db-a388-82b2e9faf49a.png)
