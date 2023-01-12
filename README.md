@@ -13,7 +13,7 @@ The model performance is analyzed under the following settings:
     1. Direct resizing with original data (at resolutions 32×32, 64×64, 128×128, 256×256, 512×512, 768×768, and 1024×1024)
     2. Direct resizing with lung-cropped ROI at aforementioned resolutions.
     3. Aspect-ratio adjusted data (best of step1/step2) at aforementioned resolutions.
-    5. Improve segmentation performance at the optimal resolution/ratio through a combinatorial approach of storing model snapshots, optimal test time augmentation, segmentation threshold optimization, and snapshot averaging.
+    4. Improve segmentation performance at the optimal resolution/ratio through a combinatorial approach of storing model snapshots, optimal test time augmentation, segmentation threshold optimization, and snapshot averaging.
 
 ## Requirements:
 
