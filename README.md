@@ -34,10 +34,6 @@ The model performance is analyzed under the following settings:
     
 ![Fig_1](https://user-images.githubusercontent.com/45852019/212079319-ba402ad1-b86d-4815-ab59-0d25d83d3995.png)
 
-
-![image](https://user-images.githubusercontent.com/45852019/210234712-24cae50f-9205-47e8-993e-b499e1543289.png)
-
-
 ## Test-time augmentation combination
 
 ![image](https://user-images.githubusercontent.com/45852019/210234837-b6297c06-24a6-4071-be09-c6c13a882ca6.png)
