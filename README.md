@@ -31,6 +31,8 @@ The model performance is analyzed under the following settings:
     skimage==0.0
     tensorflow==2.6.2
     tqdm==4.62.3
+    
+![Fig_1](https://user-images.githubusercontent.com/45852019/212079319-ba402ad1-b86d-4815-ab59-0d25d83d3995.png)
 
 
 ![image](https://user-images.githubusercontent.com/45852019/210234614-ba1aee0b-a679-46db-a388-82b2e9faf49a.png)
